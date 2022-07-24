@@ -12,19 +12,19 @@ In favourate page all favorate movie with filter section you can filter on the b
 
 # Home page 
 ![Screenshot from 2022-07-24 17-50-03](https://user-images.githubusercontent.com/56158611/180647685-e68af7e0-cd41-49df-ab78-ef48ed6061e3.png)
-# Fav Page1 with all favorate
+# Fav Page with all favorate
 ![Screenshot from 2022-07-24 17-50-10](https://user-images.githubusercontent.com/56158611/180647708-c4058f2f-cec6-4e4d-ac4e-561d0b66dc32.png)
 
-# Fav page2 with filter on the basis of movie category
+# Fav page with filter on the basis of movie category
 ![Screenshot from 2022-07-24 17-50-17](https://user-images.githubusercontent.com/56158611/180647720-05c45336-6503-429c-97c5-ecc80168d347.png)
 
-# fav page3 with filter on the basis of movie category
+# Fav Page with filter on the basis of movie category
 ![Screenshot from 2022-07-24 17-50-28](https://user-images.githubusercontent.com/56158611/180647753-3b2f33e0-939f-4dc8-a835-26e93c9023db.png)
 
-# fav page sort with rating
+# Fav Page sort with rating
 ![Screenshot from 2022-07-24 17-51-39](https://user-images.githubusercontent.com/56158611/180647820-831254ba-f46d-4a04-a87c-4272230d6385.png)
 
-# fav page search movie with name
+# Fav Page search movie with name
 ![Screenshot from 2022-07-24 17-51-12](https://user-images.githubusercontent.com/56158611/180647847-59753444-b5cc-4193-b822-fd72f75f97a5.png)
 
 
